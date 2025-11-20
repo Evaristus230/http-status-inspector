@@ -1,0 +1,9 @@
+/
+/admin
+/admin/
+/login
+/.env
+/backup
+/api
+/api/
+/test
